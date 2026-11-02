@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Priprava_test_01112026")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab47fd938e45533a0ea6ce6c94ed6e83d25f150c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Priprava_test_01112026")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Priprava_test_01112026")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
